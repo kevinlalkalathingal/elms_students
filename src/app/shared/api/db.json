@@ -1,0 +1,67 @@
+{
+    "subjects": [
+        {
+            "id": 100,
+            "sub1": "evs",
+            "sub2": "social science",
+            "sub3": "maths"
+        }
+    ],
+    "stdDetails": [
+        {
+            "id": 101,
+            "fname": "amrutha",
+            "lname": "k",
+            "email": "amrutha@gmail.com",
+            "uname": "ammuamrutha",
+            "password": "amrutha@123",
+            "twitter": "ammuamrutha",
+            "facebook": "amruthaammu",
+            "linkedin": "amruthaammu"
+        },
+        {
+            "id": 102,
+            "fname": "ramesh",
+            "lname": "raj",
+            "email": "ramesh@gmail.com",
+            "uname": "ramesh123",
+            "password": "ramesh@123",
+            "twitter": "ramesh000",
+            "facebook": "ramesh@2011",
+            "linkedin": "ramesh ramesh"
+        },
+        {
+            "id": 103,
+            "fname": "rahul",
+            "lname": "pk",
+            "email": "rahul@gmail.com",
+            "uname": "rahul123",
+            "password": "rahul@123",
+            "twitter": "rahulpk",
+            "facebook": "pkrahul",
+            "linkedin": "rahulpk"
+        },
+        {
+            "id": 104,
+            "fname": "anjali",
+            "lname": "anoop",
+            "email": "anjali@gmail.com",
+            "uname": "anjalianju12",
+            "password": "anjali@123",
+            "twitter": "anjuanjali",
+            "facebook": "anjali@000",
+            "linkedin": "anjalianju"
+        },
+        {
+            "id": 105,
+            "fname": "ravi",
+            "lname": "das",
+            "email": "ravi@gmail.com",
+            "uname": "raviravi",
+            "password": "ravi@123",
+            "twitter": "ravi000",
+            "facebook": "ravidas000",
+            "linkedin": "ravi ravidas"
+        }
+    ]
+}
